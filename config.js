@@ -40,7 +40,7 @@ const CONFIG = {
 
   // Autochange by hour options (24hrs format, string must be in: hh:mm)
   changeThemeByHour: true,
-  hourDarkThemeActive: '18:30',
+  hourDarkThemeActive: '07:00',
   hourDarkThemeInactive: '07:00',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
